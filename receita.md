@@ -1,20 +1,16 @@
-<!DOCTYPE html>
-<!-- Nesse exercício, veremos as formas como as cores podem ser representadas em seu estilo -->
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cores em CSS</title>
-</head>
-<body>
-    <h1>Cores em CSS</h1>
-    <p>Para entender esse exercício, olhe bem atentamente o código fonte do arquivo.</p>
-    <h2 style="background-color: darkblue; color: white;">Este título está colorido usando cores por nome</h2>
-    <h2 style="background-color: #00008b; color: #ffffff;">Já esse está usando cores pelo código Hexadecimal</h2>
-    <h2 style="background-color: rgb(0, 0, 139); color: rgb(255, 255, 255);">Este outro está colorido usando códigos RGB (red, green, blue)</h2>
-    <h2 style="background-color: hsl(240, 100%, 27%); color: hsl(0, 0%, 100%);">Este outro aqui está usando códigos HSL (hue, saturation, light)</h2>
-    <p>As cores resultantes são exatamente as mesmas, mas o formato de representação muda conforme o padrão escolhido.</p>
-    <p>Também é possível usar transparência, usando o formato RGBA (red, green, blue, alpha)</p>
-    <h2 style="background-color: rgba(0, 0, 139, 0.5); color: white;">Nesse título, o fundo azul teve sua transparência configurada para 50%</h2>
-</body>
-</html>
+# Estrogonoff de Frango :chicken:
+
+
+
+## What is Lorem Ipsum?
+
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software - 
+
+- like Aldus PageMaker including versions of Lorem Ipsum.
+
+## titulo 2
+
+### titulo 3
+
+#### titulo 4
+
